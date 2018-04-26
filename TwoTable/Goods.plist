@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>时间一</string>
+		<string>时间二</string>
+		<string>时间三</string>
+		<string>四</string>
+		<string>五</string>
+		<string>六</string>
+		<string>七</string>
+		<string>八</string>
+		<string>九</string>
+		<string>十</string>
+		<string>十一</string>
+		<string>十二</string>
+		<string>十三</string>
+		<string>十四</string>
+		<string>十五</string>
+		<string>十六</string>
+	</array>
+	<array>
+		<string>注册</string>
+		<string>充值</string>
+		<string>化妆品</string>
+		<string>饮用水</string>
+		<string>副食品</string>
+		<string>小吃</string>
+		<string>鞋子</string>
+		<string>衣服</string>
+		<string>化妆品</string>
+		<string>饮用水</string>
+	</array>
+</array>
+</plist>
